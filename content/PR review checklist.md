@@ -43,9 +43,11 @@
 - [ ] Suggest improvements or alternatives
 
 8. Follow-up
-   - [ ] Re-review after changes are made
-   - [ ] Ensure all concerns are addressed before approval
+
+- [ ] Re-review after changes are made
+- [ ] Ensure all concerns are addressed before approval
 
 9. Final assessment
-   - [ ] Consider the overall impact on the project
-   - [ ] Verify that the PR meets acceptance criteria
+
+- [ ] Consider the overall impact on the project
+- [ ] Verify that the PR meets acceptance criteria
