@@ -1,5 +1,3 @@
-# PR review checklist _(obsidian template)_
-
 1. Understand context
 
 - [ ] Review PR description and related issues
