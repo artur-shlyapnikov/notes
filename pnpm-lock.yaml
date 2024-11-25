@@ -84,11 +84,11 @@ importers:
         specifier: ^8.3.4
         version: 8.4.0
       preact:
-        specifier: ^10.23.2
-        version: 10.24.0
+        specifier: ^10.25.0
+        version: 10.25.0
       preact-render-to-string:
         specifier: ^6.5.10
-        version: 6.5.11(preact@10.24.0)
+        version: 6.5.11(preact@10.25.0)
       pretty-bytes:
         specifier: ^6.1.1
         version: 6.1.1
@@ -1839,8 +1839,8 @@ packages:
     peerDependencies:
       preact: '>=10'
 
-  preact@10.24.0:
-    resolution: {integrity: sha512-aK8Cf+jkfyuZ0ZZRG9FbYqwmEiGQ4y/PUO4SuTWoyWL244nZZh7bd5h2APd4rSNDYTBNghg1L+5iJN3Skxtbsw==}
+  preact@10.25.0:
+    resolution: {integrity: sha512-6bYnzlLxXV3OSpUxLdaxBmE7PMOu0aR3pG6lryK/0jmvcDFPlcXGQAt5DpK3RITWiDrfYZRI0druyaK/S9kYLg==}
 
   prettier@3.3.3:
     resolution: {integrity: sha512-i2tDNA0O5IrMO757lfrdQZCc2jPNDVntV0m/+4whiDfWaTKfMNgR7Qz0NAeGz/nRqF4m5/6CLzbP4/liHt12Ew==}
@@ -4106,11 +4106,11 @@ snapshots:
       ismobilejs: 1.1.1
       parse-svg-path: 0.1.2
 
-  preact-render-to-string@6.5.11(preact@10.24.0):
+  preact-render-to-string@6.5.11(preact@10.25.0):
     dependencies:
-      preact: 10.24.0
+      preact: 10.25.0
 
-  preact@10.24.0: {}
+  preact@10.25.0: {}
 
   prettier@3.3.3: {}
 
